@@ -1,0 +1,31 @@
+Product_ID,Product_Name,Category,Unit_Cost,Current_Stock,Reorder_Level
+P001,Wireless Headphones,Electronics,450,120,30
+P002,Bluetooth Speaker,Electronics,300,80,25
+P003,Smart Watch,Electronics,900,45,20
+P004,Phone Charger,Electronics,60,200,50
+P005,USB Cable,Electronics,25,0,40
+P006,Power Bank,Electronics,220,18,20
+P007,Laptop Stand,Electronics,180,60,15
+P008,Coffee Maker,Home,550,40,15
+P009,Kettle,Home,180,70,20
+P010,Vacuum Cleaner,Home,1200,22,10
+P011,Desk Lamp,Home,140,55,20
+P012,Wall Clock,Home,90,8,15
+P013,Bed Sheet Set,Home,260,45,20
+P014,Face Cream,Beauty,120,90,30
+P015,Shampoo,Beauty,55,0,40
+P016,Perfume,Beauty,380,35,15
+P017,Lipstick,Beauty,70,110,30
+P018,Sunscreen,Beauty,95,6,20
+P019,T-Shirt,Fashion,80,200,50
+P020,Jeans,Fashion,220,90,30
+P021,Sneakers,Fashion,420,60,20
+P022,Handbag,Fashion,350,40,15
+P023,Cap,Fashion,50,4,20
+P024,Scarf,Fashion,70,0,15
+P025,Yoga Mat,Sports,110,55,15
+P026,Dumbbell Set,Sports,280,30,10
+P027,Running Shoes,Sports,520,45,15
+P028,Water Bottle,Sports,40,180,50
+P029,Jump Rope,Sports,35,9,15
+P030,Fitness Tracker,Sports,480,25,10
